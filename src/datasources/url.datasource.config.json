@@ -1,0 +1,6 @@
+{
+  "name": "url",
+  "connector": "memory",
+  "localStorage": "",
+  "file": ""
+}
